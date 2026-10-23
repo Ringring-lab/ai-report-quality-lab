@@ -1,0 +1,1 @@
+print("AI Report Quality Lab is runnning!")
